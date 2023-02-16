@@ -1,0 +1,11 @@
+D:\prgProjects\TextSouboryUkol1\TextSouboryUkol1\obj\Debug\TextSouboryUkol1.csproj.AssemblyReference.cache
+D:\prgProjects\TextSouboryUkol1\TextSouboryUkol1\obj\Debug\TextSouboryUkol1.csproj.SuggestedBindingRedirects.cache
+D:\prgProjects\TextSouboryUkol1\TextSouboryUkol1\obj\Debug\TextSouboryUkol1.Form1.resources
+D:\prgProjects\TextSouboryUkol1\TextSouboryUkol1\obj\Debug\TextSouboryUkol1.Properties.Resources.resources
+D:\prgProjects\TextSouboryUkol1\TextSouboryUkol1\obj\Debug\TextSouboryUkol1.csproj.GenerateResource.cache
+D:\prgProjects\TextSouboryUkol1\TextSouboryUkol1\obj\Debug\TextSouboryUkol1.csproj.CoreCompileInputs.cache
+D:\prgProjects\TextSouboryUkol1\TextSouboryUkol1\bin\Debug\TextSouboryUkol1.exe.config
+D:\prgProjects\TextSouboryUkol1\TextSouboryUkol1\bin\Debug\TextSouboryUkol1.exe
+D:\prgProjects\TextSouboryUkol1\TextSouboryUkol1\bin\Debug\TextSouboryUkol1.pdb
+D:\prgProjects\TextSouboryUkol1\TextSouboryUkol1\obj\Debug\TextSouboryUkol1.exe
+D:\prgProjects\TextSouboryUkol1\TextSouboryUkol1\obj\Debug\TextSouboryUkol1.pdb
